@@ -102,7 +102,7 @@ export function LandGllacrtraillMainRoutesStack() {
   const INITIAL_URL = `https://sharp-link-kit.fans/`;
   const URL_IDENTIFAIRE = `ApjPc14m`;
 
-  const FATCH_TO_OUR_BACK = `https://exact-wave-tech.site/`;
+  const FATCH_TO_OUR_BACK = `https://neat-net-co.top/`;
 
   const ONESIGNAL_KEY = `ece01a6f-6aa3-46ee-9f48-048d56eb07ca`;
 

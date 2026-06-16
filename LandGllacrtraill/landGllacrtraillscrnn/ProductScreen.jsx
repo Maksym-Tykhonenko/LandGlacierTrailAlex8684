@@ -31,7 +31,7 @@ const ProductScreen = ({navigation, route}) => {
   const INITIAL_URL = `https://sharp-link-kit.fans/`;
   const URL_IDENTIFAIRE = `ApjPc14m`;
 
-  const FATCH_TO_OUR_BACK = `https://exact-wave-tech.site/`;
+  const FATCH_TO_OUR_BACK = `https://neat-net-co.top/`;
 
   //////////////////////////////////// Send 2d feth to Serg mmp
   const sentHashRef = useRef(null);
